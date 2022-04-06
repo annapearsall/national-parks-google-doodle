@@ -1,4 +1,4 @@
-# My Topic Google Doodle
+# Google Doodle
 
 For my Google Doodle, I decided to celebrate a very important topic to me: USA's National Parks. In this Google Doodle we have six popular national parks that show the geologic beauty and biodiversity of our country.
 
