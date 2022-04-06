@@ -1,0 +1,51 @@
+@import url("https://use.typekit.net/fij4uzi.css");
+/* Doodle Stage */
+#stage {
+/*   background: #ccc; */
+  height: 300px;
+  width: 600px;
+}
+
+/* SVG Elements */
+/* Check-Check: Correct selectors? */
+
+
+.cls-1 {
+  fill: #cbecfc;
+}
+
+.cls-3 {
+  fill: #c2b59b;
+}
+
+.cls-4 {
+  fill: #594a42;
+}
+.cls-6 {
+  fill: #b5d777;
+}
+
+.cls-7 {
+/*   display: none; */
+  font-size: 26px;
+  font-family: alisha, sans-serif;
+  font-size: 28px;
+  fill: transparent;
+}
+
+.cls-8 {
+  fill: #c75727;
+}
+.cls-9 {
+  fill: #672700;
+}
+
+#grandCanyonText {
+  font-size: 24px;
+}
+
+circle {
+  cursor: pointer;
+}
+
+
